@@ -12,7 +12,7 @@
 
 ## About
 
-We are a team of student engineers from Rangpur, Bangladesh, empowering the next generation of innovators through coding and robotics. Our focus: **robotics, control systems, power electronics, and intelligent automation**.
+We are a team of student engineers from Begum Rokeya University,Rangpur, Bangladesh, empowering the next generation of innovators through coding and robotics. Our focus: **robotics, control systems, power electronics, and intelligent automation**.
 
 We share STEM education, DIY projects, and AI insights.
 
@@ -58,6 +58,6 @@ We share STEM education, DIY projects, and AI insights.
 
 <div align="center">
 
-*Thanks to our teachers and BAUST for the chance.*
+*:)*
 
 </div>

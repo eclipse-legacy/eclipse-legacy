@@ -46,7 +46,7 @@ We share STEM education, DIY projects, and AI insights.
 | | | | |
 |---|---|---|---|
 | Yasin | Rhidta | Jibon | Sumaiya |
-| Chandon | Fahim | Bappy | Rakibul |
+| Chandan | Fahim | Bappy | Rakibul |
 
 ## Connect
 
